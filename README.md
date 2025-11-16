@@ -13,11 +13,11 @@
 
 <!-- Contact Info Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmedfarouk" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-adel444" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-AhmedFarouk577-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:ahmedmohamedfarouk212103048@gmail.com " target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-ahmedmohamedfarouk212103048@gmail.com -red?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:ahmed.adel.m7med@gmail.com " target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-ahmed.adel.m7med@gmail.com -red?style=flat&logo=gmail&logoColor=white" />
   </a>
  
 </p>
